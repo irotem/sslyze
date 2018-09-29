@@ -1,5 +1,6 @@
 import sys
 from os import path, listdir
+from io import open
 
 from setuptools import find_packages
 from sslyze import __author__, __email__, __version__, PROJECT_URL
